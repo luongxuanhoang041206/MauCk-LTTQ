@@ -1,0 +1,50 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio user files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache and generated files
+TestResults/
+*.pdb
+*.mdb
+*.cache
+*.log
+
+# Code coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# NuGet packages restored locally
+packages/
+
+# Publish and deployment output
+publish/
+*.publishsettings
+
+# Temporary files
+[Tt]emp/
+[Tt]mp/
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# SQL Server local/user database files
+*.mdf
+*.ldf
+*.ndf
+
+# ReSharper and other IDE files
+_ReSharper*/
+*.DotSettings.user
